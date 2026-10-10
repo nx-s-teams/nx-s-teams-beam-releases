@@ -18,6 +18,6 @@ Installed apps update themselves from this page (from version 1.3). Update files
 
 ## License
 
-Beam is proprietary software. Copyright (c) 2026 nx-s tech. All rights reserved. Use is governed by the [Beam End User License Agreement](EULA.md). Open-source components used by Beam are listed in `THIRD-PARTY-NOTICES.html` attached to each release.
+Beam is proprietary software. Copyright (c) 2026 Nexus Tech. All rights reserved. Use is governed by the [Beam End User License Agreement](EULA.md). Open-source components used by Beam are listed in `THIRD-PARTY-NOTICES.html` attached to each release.
 
 Questions or problems: [open an issue](https://github.com/nx-s-teams/nx-s-teams-beam-releases/issues).

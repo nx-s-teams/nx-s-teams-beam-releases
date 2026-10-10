@@ -2,7 +2,7 @@
 
 Version 1.0, effective 10 October 2026.
 
-This agreement is between you and nx-s tech ("we") and covers the Beam desktop and mobile applications, the Beam relay, their updates and documentation (together, "Beam"). By installing or using Beam you accept these terms. If you do not accept them, do not install or use Beam.
+This agreement is between you and Nexus Tech ("we") and covers the Beam desktop and mobile applications, the Beam relay, their updates and documentation (together, "Beam"). By installing or using Beam you accept these terms. If you do not accept them, do not install or use Beam.
 
 ## 1. License
 
